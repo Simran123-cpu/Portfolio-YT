@@ -27,7 +27,7 @@ export const PROJECTS = [
 ]
 export const CONTACT = {
     Email: "simranmanwani0@gmail.com",
-    Linkedin: "https://www.linkedin.com/in/simran2003/"
+    Email: "simranworkmail@gmail.com",
 
 }
 
