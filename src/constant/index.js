@@ -20,7 +20,7 @@ export const PROJECTS = [
     {
         title: "Landing Page",
         image: lp,
-        Description: "A System For Pet-Adoption services have a intreactive user-interface ,and a user authentication system and admin-panel ",
+        Description: "A Simple and unique Design Landing page ,built on using React and Tailwind. ",
         technologies: ["React,tailwind"]
     }
 
