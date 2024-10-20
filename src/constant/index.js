@@ -27,7 +27,7 @@ export const PROJECTS = [
 ]
 export const CONTACT = {
     Email: "simranmanwani0@gmail.com",
-    Mail: "simranworkmail@gmail.com",
+    Mail: "simranworkmail10@gmail.com",
 
 }
 

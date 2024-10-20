@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import profile from '../assets/profile.jpg';
+import profile from '../assets/Headshot2.png';
 import { HERO_CONTENT } from "../constant";
 
 const container = (delay) => ({
@@ -28,7 +28,7 @@ const Hero = () => {
                 </div>
                 <div className="w-full lg:w-1/2 lg:p-8">
                     <div className="flex justify-center lg:justify-end">
-                        <motion.img variants={container(0)} initial="hidden" animate="visible" src={profile} className="lg:max-w-md h-[400px] rounded-2xl" alt="Profile" />
+                        <motion.img variants={container(0)} initial="hidden" animate="visible" src={profile} className="lg:max-w-md h-[400px] rounded-full" alt="Profile" />
                     </div>
                 </div>
             </div>
